@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_report">
+    <sysauto_report action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <address_list/>
+        <condition/>
+        <conditional>false</conditional>
+        <group_list name="HHD Support">a029c0194f803300bb112b8ca310c7ed</group_list>
+        <include_detail>false</include_detail>
+        <include_with/>
+        <name>Scheduled execution of Active HHD Incidents by Priority</name>
+        <omit_if_no_records>false</omit_if_no_records>
+        <output_type>PDF-landscape</output_type>
+        <page_height_in_pixels>612</page_height_in_pixels>
+        <page_size>Letter</page_size>
+        <page_width_in_pixels>792</page_width_in_pixels>
+        <report display_value="Active HHD Incidents by Priority">3c1824514f043300bb112b8ca310c7cc</report>
+        <report_body><![CDATA[<p>Please find included the current count of all active HHD incidents grouped by priority. This information will be discussed during the team&rsquo;s incident review meeting today at 9:00am.</p>]]></report_body>
+        <report_title>Current HHD Active incidents Count</report_title>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2019-03-06 14:56:29</run_start>
+        <run_time>1970-01-01 07:30:00</run_time>
+        <run_type>weekly</run_type>
+        <sys_class_name>sysauto_report</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-06 14:57:33</sys_created_on>
+        <sys_id>e57868514f043300bb112b8ca310c738</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scheduled execution of Active HHD Incidents by Priority</sys_name>
+        <sys_package display_value="Infinity" source="x_302117_infinity">ad838c594f403300bb112b8ca310c780</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Infinity">ad838c594f403300bb112b8ca310c780</sys_scope>
+        <sys_update_name>sysauto_report_e57868514f043300bb112b8ca310c738</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-06 14:57:33</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+        <user_list/>
+        <zip>false</zip>
+    </sysauto_report>
+</record_update>

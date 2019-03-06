@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_home">
+    <sys_home action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <language>en</language>
+        <order>100</order>
+        <published>2019-03-06</published>
+        <short_description>Welcome to Cloud Dimensions</short_description>
+        <sys_class_name>sys_home</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-06 12:26:22</sys_created_on>
+        <sys_id>aad504554f803300bb112b8ca310c7ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Welcome to Cloud Dimensions</sys_name>
+        <sys_package display_value="Infinity" source="x_302117_infinity">ad838c594f403300bb112b8ca310c780</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Infinity">ad838c594f403300bb112b8ca310c780</sys_scope>
+        <sys_update_name>sys_home_aad504554f803300bb112b8ca310c7ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-06 12:26:22</sys_updated_on>
+        <text><![CDATA[<p>Welcome to the home of Handheld Holographic Display! If you are an employee of Cloud Dimensions, please use your company login credentials to enter.</p>]]></text>
+    </sys_home>
+</record_update>

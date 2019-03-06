@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_u_assignment">
+    <dl_u_assignment action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assigned_to/>
+        <assignment_group display_value="HHD Support" name="HHD Support">a029c0194f803300bb112b8ca310c7ed</assignment_group>
+        <category>HDD</category>
+        <cmdb_ci/>
+        <location/>
+        <order>100</order>
+        <subcategory/>
+        <sys_class_name>dl_u_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-06 14:38:06</sys_created_on>
+        <sys_id>df83a09d4fc03300bb112b8ca310c76c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Infinity" source="x_302117_infinity">ad838c594f403300bb112b8ca310c780</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Infinity">ad838c594f403300bb112b8ca310c780</sys_scope>
+        <sys_update_name>dl_u_assignment_df83a09d4fc03300bb112b8ca310c76c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-06 14:38:06</sys_updated_on>
+    </dl_u_assignment>
+</record_update>
